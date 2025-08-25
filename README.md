@@ -14,6 +14,7 @@ https://YOUR_USERNAME.github.io/pong-game/
 *Experience retro gaming with a modern neon twist*
 
 ![Gameplay Demo](screenshot.gif)
+
 *Watch the smooth neon gameplay in action*
 
 ## ✨ Features
